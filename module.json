@@ -87,7 +87,7 @@
   ],
   "url": "https://github.com/rinnocenti/innocenti-openlock",
   "manifest": "https://raw.githubusercontent.com/rinnocenti/innocenti-openlock/main/module.json",
-  "download": "https://github.com/rinnocenti/innocenti-openlock/archive/main.zip",
+  "download": "https://github.com/rinnocenti/innocenti-openlock/archive/refs/heads/v.0.8.5.zip",
   "bugs": "https://github.com/rinnocenti/innocenti-openlock/issues",
   "readme": "https://github.com/rinnocenti/innocenti-openlock/blob/main/README.md"
 }
